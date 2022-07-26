@@ -30,3 +30,6 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/>
 </div>
+
+### Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Okeanos-0&theme=dark&background=000000)](https://git.io/streak-stats)
