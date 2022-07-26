@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 
 <details>
   <summary>Wakatime Stats</summary>
-[![Okeanos's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Okeanos)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Okeanos"/>
 </details>
