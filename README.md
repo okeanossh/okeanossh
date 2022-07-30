@@ -37,5 +37,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>Wakatime Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Okeanos"/>
+<a href="https://wakatime.com/@Okeanos" target="_blank">
+	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Okeanos&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
+</a>
 </details>
