@@ -3,7 +3,7 @@
 ```py
 class Okeanos:
     name = "Okyanus"
-    langs = [".py", ".js", ".ts", ".go", ".c", ".go", ".cpp"]
+    langs = [".py", ".js", ".ts", ".go", ".c", ".go", ".cpp", ".java"]
     favorite_activity = "Unknown"
     discord = "Okeanos#0017"
 ```
