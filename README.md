@@ -1,13 +1,5 @@
 ### Hello there 👋
 
-```py
-class Okeanos:
-    name = "Okyanus"
-    langs = [".py", ".js", ".ts", ".go", ".c", ".go", ".cpp", ".java"]
-    favorite_activity = "Unknown"
-    discord = "Okeanos#0017"
-```
-
 <!--
 **Okeanos-0/Okeanos-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
