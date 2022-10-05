@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am interested in C, C++, Rust, Go and Python
+I'm interested in C, C++, Rust, Go and Python
