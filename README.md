@@ -1,3 +1,3 @@
 ### Hi!
 
-I'm interested in C, C++, Rust, Go and Python
+I'm interested in C, C++, Rust and Go
