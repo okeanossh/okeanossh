@@ -1,3 +1,3 @@
-### Hi!
+<img src="banner.png"/>
 
-I'm interested in C, C++, Rust and Go
+(stolen from (d3r1n)[https://github.com/d3r1n])
